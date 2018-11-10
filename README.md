@@ -16,3 +16,4 @@ THE ワード
 ## THE CARD GAME
 THE ワード化計画
 言葉ワードを使い新しい言葉を作るゲームなどにも使える
+https://github.com/TeamSunstripe/THECARDGAME/issues/49
